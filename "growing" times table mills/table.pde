@@ -65,6 +65,6 @@ class table
   void update()
   {
     multiplier = (millis() * .0001) + 1;
-    stroke(multiplier, 255, 255);
+    stroke((multiplier*12)%255, 255, 255);
   }
 }
