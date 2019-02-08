@@ -5,9 +5,10 @@ Repo for my Times tables project. Inspired by Simon Tiger https://github.com/sim
 **The final product of my times table grid.**
 
 I created this application by mapping N number of points around a circle of radius R, that N number of points is the modulo of the time tables.
+
 I then use a for loop to draw a line from point i to point i * multiplier % modulo. 
-the times tables are layed out in a grid that fits within a 16:9 screen.
-the number of columns and rows can be changed in the code, the current number of columns and rows is the max that can fit on a 16:9 screen.
+
+the times tables are layed out in a grid that fits within a 16:9 screen. the number of columns and rows can be changed in the code, the current number of columns and rows is the max that can fit on a 16:9 screen.
 
 **What are times tables and how do they work?**
 
