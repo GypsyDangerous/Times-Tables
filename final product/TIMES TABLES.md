@@ -16,4 +16,4 @@ the times tables are layed out in a grid that fits within a 16:9 screen.
 
 The other version uses a 4x4 grid instead of a 8x4 grid and has one table on the right side that can be grown/shrunk
 
-![Screenshot](.PNG)
+![Screenshot](Capture.PNG)
