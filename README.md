@@ -1,5 +1,5 @@
 # Times-Tables
-Repo for my Times tables project. Inspired by Simon Tiger.
+Repo for my Times tables project. Inspired by Simon Tiger https://github.com/simon-tiger/times_tables.
 
 
 **The final product of my times table grid.**
