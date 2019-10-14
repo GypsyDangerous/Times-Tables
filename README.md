@@ -1,6 +1,5 @@
 # Times-Tables
-Repo for my Times tables project. Inspired by Simon Tiger https://github.com/simon-tiger/times_tables. All of the code is my own but the idea came from Simon
-
+Repo for my Times tables project.
 
 **The final product of my times table grid.**
 
